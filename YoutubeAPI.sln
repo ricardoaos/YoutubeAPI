@@ -5,11 +5,11 @@ VisualStudioVersion = 16.0.29709.97
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YoutubeAPI", "YoutubeAPI\YoutubeAPI.csproj", "{C7B06ED9-5970-4709-8D2B-70392C0220A6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{71B3FA96-FE23-4744-827E-7B049B1895EE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain", "Domain\Domain.csproj", "{71B3FA96-FE23-4744-827E-7B049B1895EE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service", "Service\Service.csproj", "{432AC1BE-446B-4D46-AEED-A72BA8A49E17}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Service", "Service\Service.csproj", "{432AC1BE-446B-4D46-AEED-A72BA8A49E17}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository", "Repository\Repository.csproj", "{52ED224E-3539-4915-B56F-787F0FDB9984}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Repository", "Repository\Repository.csproj", "{52ED224E-3539-4915-B56F-787F0FDB9984}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

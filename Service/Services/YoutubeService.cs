@@ -60,11 +60,11 @@ namespace Service
                     }
                 }
 
-                Console.WriteLine(String.Format("Videos:\n{0}\n", string.Join("\n", videos)));
-                Console.WriteLine(String.Format("Channels:\n{0}\n", string.Join("\n", channels)));
-                Console.WriteLine(String.Format("Playlists:\n{0}\n", string.Join("\n", playlists)));
+                //Console.WriteLine(String.Format("Videos:\n{0}\n", string.Join("\n", videos)));
+                //Console.WriteLine(String.Format("Channels:\n{0}\n", string.Join("\n", channels)));
+                //Console.WriteLine(String.Format("Playlists:\n{0}\n", string.Join("\n", playlists)));
 
-                return null;
+                return videos;
             }
             catch (Exception e)
             {
